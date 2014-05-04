@@ -1,3 +1,5 @@
+This is a port for Machinecoin !
+
 coinwidget.com
 ==============
 
