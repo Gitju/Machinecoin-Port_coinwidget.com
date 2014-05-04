@@ -1,4 +1,4 @@
-This is a port for Machinecoin !
+This is a port of coinwidget.com for Machinecoin by Nico205 !
 
 coinwidget.com
 ==============
